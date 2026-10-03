@@ -1,0 +1,44 @@
+Oct 03 20:02:49.04
+GET
+404
+paginaemconstrucao-two.vercel.app
+/
+Oct 03 20:02:39.27
+GET
+404
+paginaemconstrucao-two.vercel.app
+/favicon.ico
+Oct 03 20:02:38.86
+GET
+404
+paginaemconstrucao-two.vercel.app
+/
+Oct 03 20:01:28.01
+GET
+404
+paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
+/
+Oct 03 20:01:26.94
+GET
+404
+paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
+/
+Oct 03 20:01:23.59
+GET
+404
+paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
+/
+Legacy server listening...
+Oct 03 20:01:23.59
+GET
+404
+paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
+/favicon.png
+Legacy server listening...
+Oct 03 20:01:23.59
+GET
+404
+paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
+/favicon.ico
+Legacy server listening...
+No more logs to show 

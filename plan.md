@@ -21,10 +21,10 @@ Landing page institucional de uma única rota para comunicar que o site oficial 
 - `index.html`: semântica, conteúdo, SEO básico e marcação da única rota.
 - `styles.css`: tokens de cor, composição responsiva, estados de foco e animações.
 - `script.js`: ano do rodapé e microinterações sem dependências.
-- `server.js`: servidor estático mínimo para o Preview na porta 3000.
+- `logo.jpg`: logo da marca servida localmente.
 - `public/manus-routes.json`: manifesto da rota `/`.
 - `app.config.ts`: metadado de logo do projeto.
 - `TODO.md`: critérios de entrega derivados do pedido.
 
 ## Operação
-A página é estática, sem servidor de aplicação ou banco de dados. O Preview roda em `0.0.0.0:3000`; o mesmo conjunto de arquivos pode ser servido como publicação estática posteriormente.
+A página é estática, sem servidor de aplicação ou banco de dados. Publicação como site estático na Vercel (sem build, sem funções), servindo os arquivos diretamente da raiz do repositório.
