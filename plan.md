@@ -22,7 +22,7 @@ Landing page institucional de uma única rota para comunicar que o site oficial 
 - `styles.css`: tokens de cor, composição responsiva, estados de foco e animações.
 - `script.js`: ano do rodapé e microinterações sem dependências.
 - `logo.jpg`: logo da marca servida localmente.
-- `public/manus-routes.json`: manifesto da rota `/`.
+- `manus-routes.json`: manifesto da rota `/` (na raiz — o projeto não pode ter pasta `public/`, pois a Vercel a usaria como diretório de saída e ignoraria os arquivos da raiz).
 - `app.config.ts`: metadado de logo do projeto.
 - `TODO.md`: critérios de entrega derivados do pedido.
 
