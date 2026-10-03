@@ -1,44 +1,11 @@
-Oct 03 20:02:49.04
-GET
-404
-paginaemconstrucao-two.vercel.app
-/
-Oct 03 20:02:39.27
-GET
-404
-paginaemconstrucao-two.vercel.app
-/favicon.ico
-Oct 03 20:02:38.86
-GET
-404
-paginaemconstrucao-two.vercel.app
-/
-Oct 03 20:01:28.01
-GET
-404
-paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
-/
-Oct 03 20:01:26.94
-GET
-404
-paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
-/
-Oct 03 20:01:23.59
-GET
-404
-paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
-/
-Legacy server listening...
-Oct 03 20:01:23.59
-GET
-404
-paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
-/favicon.png
-Legacy server listening...
-Oct 03 20:01:23.59
-GET
-404
-paginaemconstrucao-7wz99jeg5-mkr-sites-fodas.vercel.app
-/favicon.ico
-Legacy server listening...
-No more logs to show 
+20:14:04.345 Running build in Washington, D.C., USA (East) – iad1
+20:14:04.346 Build machine configuration: 2 cores, 8 GB
+20:14:04.409 Cloning github.com/devWebLopes/paginaemconstrucao (Branch: main, Commit: a334a8f)
+20:14:04.410 Skipping build cache, deployment was triggered without cache.
+20:14:04.735 Cloning completed: 326.000ms
+20:14:05.730 Running "vercel build"
+20:14:05.739 Vercel CLI 62.1.0
+20:14:06.618 Installing dependencies...
+20:14:07.311 
+20:14:07.312 up to date in 500ms
+20:14:07.357 Error: No entrypoint found in "/vercel/path0". Set package.json "main" to a server file, or add one of: app.js, app.cjs, app.mjs, app.ts, app.cts, app.mts, index.js, index.cjs, index.mjs, index.ts, index.cts, index.mts, server.js, server.cjs, server.mjs, server.ts, server.cts, server.mts, main.js, main.cjs, main.mjs, main.ts, main.cts, main.mts, src/app.js, src/app.cjs, src/app.mjs, src/app.ts, src/app.cts, src/app.mts, src/index.js, src/index.cjs, src/index.mjs, src/index.ts, src/index.cts, src/index.mts, src/server.js, src/server.cjs, src/server.mjs, src/server.ts, src/server.cts, src/server.mts, src/main.js, src/main.cjs, src/main.mjs, src/main.ts, src/main.cts, src/main.mts
